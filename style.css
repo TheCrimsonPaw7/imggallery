@@ -1,0 +1,24 @@
+
+.kat{
+    height:150px;
+    width:100px;
+    border:10px ridge white;
+    margin-left:2rem;
+}
+
+.katparent{
+    margin-top:2rem;
+    display:flex;
+    justify-content:center;
+}
+
+.body{
+    background:plum;
+}
+
+.kat2{
+    height:100px;
+    width:150px;
+    border:10px ridge white;
+    margin-left:2rem;
+}
